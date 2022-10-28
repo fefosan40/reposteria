@@ -1,0 +1,114 @@
+footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-size: 14px;
+  }
+  
+  footer p {
+    margin-bottom: .25rem;
+  }
+  
+  footer a{
+    text-decoration: none;
+    color: green;
+    
+  }
+  
+  
+  footer a:hover{
+    color: green;
+    font-weight: bold;
+  }
+  
+  .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  
+  
+  .card-img-top{
+    object-fit: scale-down;
+    margin-top: 5%;
+    height: 30vh;
+  }
+  
+  .textoNavbar{
+    color: white;
+    font-size: 13px;
+    text-align: center;
+  }
+  
+  
+  .btnVaciar {
+    color:green;
+    font-size: smaller;
+    border:none;
+    
+  }
+  
+  .btn-dark:hover{
+    background-color: #28a745;
+    border:#28a745;
+  
+  }
+  
+  .changuito {
+    font-size: 20px;
+  }
+  
+  .table-responsive {
+    font-size: 13px;
+  }
+  
+  
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  
+    .textoNavbar{
+      font-size: 18px;
+    }
+  }
+  
+  
+  
+  @media (max-width: 400px) {
+
+    .textoNavbar, .changuito {
+      font-size: 13px;
+    }
+  
+  
+    .table-responsive {
+      font-size: 10px;
+    }
+  
+    .botones, .btnVaciar, footer{
+      font-size: 12px;
+    }
+  
+    .btnVaciar {
+      font-size: 12px;
+    }
+    #catalogo {
+      line-height: 0.5;
+      font-size: 14px;
+  }
+  
+  #catalogo button {
+    font-size: 12px;
+  
+  }
+  
+  .card-body {
+    padding-top: 8px;
+    padding-bottom: 16px;
+  }
+  
+  }

@@ -1,0 +1,147 @@
+[
+    {
+    "id":1,
+    "linea":"POSTRE DE FRUTILLA",
+    "tipo":"POSTRE",
+    "precio":1500,
+    "cantidad": 1,
+    "img":"img/POSTREDEFRUTILLA.jpg"
+},
+{
+    "id":2,
+    "linea":"POSTRE ROGEL",
+    "tipo":"POSTRE",
+    "precio":2200,
+    "cantidad": 1,
+    "img":"img/POSTREROGEL.jpg"
+},
+{
+    "id":3,
+    "linea":"POSTRE ANIMACION",
+    "tipo":"POSTRE",
+    "precio":1900,
+    "cantidad": 1,
+    "img":"img/POSTREANIMACION.jpg"
+},
+{
+    "id":4,
+    "linea":"POSTRE ANIMACION 2",
+    "tipo":"POSTRE",
+    "precio":2000,
+    "cantidad": 1,
+    "img":"img/POSTREANIMACION2.jpg"
+},
+{
+    "id":5,
+    "linea":"POSTRE DE MOUSSE",
+    "tipo":"POSTRE",
+    "precio":1800,
+    "cantidad": 1,
+    "img":"img/POSTREDEMOUSSE.jpg"
+},
+{
+    "id":6,
+    "linea":"POSTRE FRUTAL",
+    "tipo":"POSTRE",
+    "precio":2100,
+    "cantidad": 1,
+    "img":"img/POSTREFRUTAL.jpg"
+},
+{
+    "id":7,
+    "linea":"POSTRE OREO",
+    "tipo":"POSTRE",
+    "precio":2500,
+    "cantidad": 1,
+    "img":"img/POSTREOREO.jpg"
+},
+{
+    "id":8,
+    "linea":"POSTRE ANIMACION 3",
+    "tipo":"POSTRE",
+    "precio":2000,
+    "cantidad": 1,
+    "img":"img/POSTREANIMACION3.jpg"
+},
+{
+    "id":9,
+    "linea":"POSTRE ANIMACION 4",
+    "tipo":"POSTRE",
+    "precio":2000,
+    "cantidad": 1,
+    "img":"img/POSTREANIMACION4.jpg"
+},
+{
+    "id":10,
+    "linea":"POSTRE DE CHOCOLATE",
+    "tipo":"POSTRE",
+    "precio":2000,
+    "cantidad": 1,
+    "img":"img/POSTREDECHOCOLATE.jpg"
+},
+{
+    "id":11,
+    "linea":"POSTRE DE VAINILLA",
+    "tipo":"POSTRE",
+    "precio":2000,
+    "cantidad": 1,
+    "img":"img/POSTREDEVAINILLA.jpg"
+},
+{
+    "id":12,
+    "linea":"POSTRE DE ROCKLETS",
+    "tipo":"POSTRE",
+    "precio":2500,
+    "cantidad": 1,
+    "img":"img/POSTREDEROCKLETS.jpg"
+},
+{
+    "id":13,
+    "linea":"POSTRE DE LIMON",
+    "tipo":"POSTRE",
+    "precio":2000,
+    "cantidad": 1,
+    "img":"img/POSTREDELIMON.jpg"
+},
+{
+    "id":14,
+    "linea":"POSTRE DE NARANJA",
+    "tipo":"POSTRE",
+    "precio":2000,
+    "cantidad": 1,
+    "img":"img/POSTREDENARANJA.jpg"
+},
+{
+    "id":15,
+    "linea":"POSTRE ANIMACION 5",
+    "tipo":"POSTRE",
+    "precio":2000,
+    "cantidad": 1,
+    "img":"img/POSTREANIMACION5.jpg"
+},
+{
+    "id":16,
+    "linea":"POSTRE ICE",
+    "tipo":"POSTRE",
+    "precio":2200,
+    "cantidad": 1,
+    "img":"img/POSTREICE.jpg"
+},
+{
+    "id":17,
+    "linea":"POSTRE ANIMACION 6",
+    "tipo":"POSTRE",
+    "precio":2000,
+    "cantidad": 1,
+    "img":"img/POSTREANIMACION6.jpg"
+},
+{
+    "id":18,
+    "linea":"POSTRE ANIMACION 7",
+    "tipo":"POSTRE",
+    "precio":2000,
+    "cantidad": 1,
+    "img":"img/POSTREANIMACION7.jpg"
+}
+
+]
